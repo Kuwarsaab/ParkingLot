@@ -1,5 +1,5 @@
 public class Vehicle {
-    enum VehicleType { CAR, SPORTSCAR, TRUCK, BUS }
+    enum VehicleType { BIKE, CAR, SPORTSCAR, TRUCK, BUS }
 
     private String registrationNumber;
     private String color;
